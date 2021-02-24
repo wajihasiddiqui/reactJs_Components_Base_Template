@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 import Card from "./Cards";
 import "./index.css";
 import data from "./Data";
-//import * as cal from './calcutaor'
 
 ReactDOM.render(
   <>
